@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\projects\visual studio\Labs\lab1\CGOpenGLExample\CGOpenGLExample\main.cpp(26,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\projects\visual studio\Labs\lab1\CGOpenGLExample\CGOpenGLExample\main.cpp(26,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  CGOpenGLExample.vcxproj -> F:\projects\visual studio\Labs\lab1\CGOpenGLExample\Debug\CGOpenGLExample.exe
